@@ -13,3 +13,8 @@ A menu-driven ATM simulation program with PIN verification.
 - C Programming
 - VS Code
 - Git & GitHub
+## Learning Outcomes
+- Understood menu-driven programming
+- Practiced conditional statements and loops
+- Implemented real-life ATM logic
+- Improved problem-solving skills in C
